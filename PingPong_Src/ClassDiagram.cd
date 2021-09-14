@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Rigidbody">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAgAAAAAJAAAAAAAIAACAAAAAIAAAARAAAAACAA=</HashCode>
+      <FileName>Rigidbody.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject">
+    <Position X="4.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MRAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAEAIAAAA=</HashCode>
+      <FileName>GameObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CollisionVolume">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABIMAAAAAAAAAAAAAAAIEAGAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>CollisionVolume.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paddle">
+    <Position X="3.5" Y="8.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Paddle::PaddleState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Paddle.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>cAAAAAAAAAAAAAAAIIAABAQAAAAAAQACAAAAAAAAAAQ=</HashCode>
+      <FileName>Paddle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ball">
+    <Position X="5.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAAACAAAAAAAAAAAAAQAAAAAAQQAAAAAAAACAIA=</HashCode>
+      <FileName>Ball.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CircleCollider">
+    <Position X="8.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAgAAAAAAAACAAAAAAAAAE=</HashCode>
+      <FileName>CircleCollider.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RectangleCollider">
+    <Position X="10.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAgQAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RectangleCollider.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LTimer" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAgAAAAEEAAAAAhAAAAAAQAgQAAIAA=</HashCode>
+      <FileName>LTimer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Vector2" Collapsed="true">
+    <Position X="13.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAQBAAAAIAAAAAABgAgAAAAA=</HashCode>
+      <FileName>Vector2.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

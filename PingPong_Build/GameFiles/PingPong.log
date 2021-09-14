@@ -1,0 +1,57 @@
+﻿  Ball.cpp
+C:\Users\upsid\source\repos\PingPong\RectangleCollider.h(8,66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\RectangleCollider.h(8,54): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\Ball.cpp(31,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\Ball.cpp(46,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\upsid\source\repos\PingPong\Ball.cpp(46,38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  CircleCollider.cpp
+C:\Users\upsid\source\repos\PingPong\RectangleCollider.h(8,66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\RectangleCollider.h(8,54): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\CircleCollider.cpp(18,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\upsid\source\repos\PingPong\CircleCollider.cpp(19,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\upsid\source\repos\PingPong\CircleCollider.cpp(23,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\upsid\source\repos\PingPong\CircleCollider.cpp(24,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\upsid\source\repos\PingPong\CircleCollider.cpp(25,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\upsid\source\repos\PingPong\CircleCollider.cpp(26,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\upsid\source\repos\PingPong\CircleCollider.cpp(29,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\CircleCollider.cpp(30,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\CircleCollider.cpp(32,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\CircleCollider.cpp(33,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\CircleCollider.cpp(36,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\upsid\source\repos\PingPong\CircleCollider.cpp(37,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\upsid\source\repos\PingPong\CircleCollider.cpp(38,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\CircleCollider.cpp(50,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\CircleCollider.cpp(50,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CollisionVolume.cpp
+  LTexture.cpp
+  LTimer.cpp
+  Paddle.cpp
+C:\Users\upsid\source\repos\PingPong\RectangleCollider.h(8,66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\RectangleCollider.h(8,54): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\Paddle.cpp(14,48): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\upsid\source\repos\PingPong\Paddle.cpp(14,40): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Pong.cpp
+C:\Users\upsid\source\repos\PingPong\Pong.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\upsid\source\repos\PingPong\RectangleCollider.h(8,66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\RectangleCollider.h(8,54): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\Pong.cpp(355,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\Pong.cpp(356,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\Pong.cpp(365,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\Pong.cpp(381,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\Pong.cpp(381,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\Pong.cpp(382,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\Pong.cpp(382,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\Pong.cpp(398,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\Pong.cpp(398,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\Pong.cpp(400,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\Pong.cpp(400,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\Pong.cpp(418,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\upsid\source\repos\PingPong\Pong.cpp(418,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  RectangleCollider.cpp
+C:\Users\upsid\source\repos\PingPong\RectangleCollider.h(8,66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\upsid\source\repos\PingPong\RectangleCollider.h(8,54): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Rigidbody.cpp
+  GameObject.cpp
+  Vector2.cpp
+  Generating Code...
+  PingPong.vcxproj -> C:\Users\upsid\source\repos\PingPong\x64\Debug\PingPong.exe
